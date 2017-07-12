@@ -9,3 +9,7 @@ Starter-kit
 - [React](https://github.com/YoloerLab/react-start-kit)
 - [React-Native](https://github.com/YoloerLab/react-native-start-kit)
 - [Rails](https://github.com/YoloerLab/rails-start-kit)
+
+Learning
+- https://learnredux.com/
+- https://www.howtographql.com/
